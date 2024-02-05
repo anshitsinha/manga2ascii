@@ -1,6 +1,7 @@
+
 @font-face {
-    font-family: 'PXL3287';
-    src: url('./Assets/PXL3278.ttf') format('truetype');
+    font-family: 'PXL3278';
+    src: url('./Assets/PXL3278.ttf');
 }
 
 * {
@@ -9,7 +10,7 @@
 
 body {
     padding: 2rem 3rem;
-    font-family: 'PXL3287', monospace;
+    font-family: 'PXL3278', monospace;
     line-height: 1.5rem;
     font-size: 18px;
 }
@@ -30,7 +31,7 @@ input {
 }
 
 pre {
-    font-family: 'PXL3287', 'monospace';
+    font-family: 'Courier New', 'monospace';
     margin: 1rem auto;
     font-size: 8px;
     line-height: 1;
